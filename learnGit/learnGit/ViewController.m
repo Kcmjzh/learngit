@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"ssh:添加nslog");
+    NSLog(@"http:添加nslog");
 }
 
 
