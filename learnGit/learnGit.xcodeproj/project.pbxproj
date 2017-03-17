@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		00BD938F1E7C4090007DBEB8 /* sshCreatFile22.m in Sources */ = {isa = PBXBuildFile; fileRef = 00BD938E1E7C4090007DBEB8 /* sshCreatFile22.m */; };
+		00BD938C1E7C406F007DBEB8 /* httpCreatFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 00BD938B1E7C406F007DBEB8 /* httpCreatFile.m */; };
 		D71EA2641E6FF0790067C134 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D71EA2631E6FF0790067C134 /* main.m */; };
 		D71EA2671E6FF0790067C134 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D71EA2661E6FF0790067C134 /* AppDelegate.m */; };
 		D71EA26A1E6FF0790067C134 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D71EA2691E6FF0790067C134 /* ViewController.m */; };
@@ -19,6 +20,8 @@
 /* Begin PBXFileReference section */
 		00BD938D1E7C4090007DBEB8 /* sshCreatFile22.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sshCreatFile22.h; sourceTree = "<group>"; };
 		00BD938E1E7C4090007DBEB8 /* sshCreatFile22.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sshCreatFile22.m; sourceTree = "<group>"; };
+		00BD938A1E7C406F007DBEB8 /* httpCreatFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = httpCreatFile.h; sourceTree = "<group>"; };
+		00BD938B1E7C406F007DBEB8 /* httpCreatFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = httpCreatFile.m; sourceTree = "<group>"; };
 		D71EA25F1E6FF0790067C134 /* learnGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = learnGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D71EA2631E6FF0790067C134 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D71EA2651E6FF0790067C134 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 				D71EA2691E6FF0790067C134 /* ViewController.m */,
 				00BD938D1E7C4090007DBEB8 /* sshCreatFile22.h */,
 				00BD938E1E7C4090007DBEB8 /* sshCreatFile22.m */,
+				00BD938A1E7C406F007DBEB8 /* httpCreatFile.h */,
+				00BD938B1E7C406F007DBEB8 /* httpCreatFile.m */,
 				D71EA26B1E6FF0790067C134 /* Main.storyboard */,
 				D71EA26E1E6FF0790067C134 /* Assets.xcassets */,
 				D71EA2701E6FF0790067C134 /* LaunchScreen.storyboard */,
@@ -157,6 +162,7 @@
 			files = (
 				00BD938F1E7C4090007DBEB8 /* sshCreatFile22.m in Sources */,
 				D71EA26A1E6FF0790067C134 /* ViewController.m in Sources */,
+				00BD938C1E7C406F007DBEB8 /* httpCreatFile.m in Sources */,
 				D71EA2671E6FF0790067C134 /* AppDelegate.m in Sources */,
 				D71EA2641E6FF0790067C134 /* main.m in Sources */,
 			);
